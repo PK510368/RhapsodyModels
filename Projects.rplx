@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0.1</version>
+	<lang>C++</lang>
+	<BuildNo>202006101734</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<IWorkspace type="e">
+			<m_SavedActiveProjectsName type="a">AWCController</m_SavedActiveProjectsName>
+			<_id type="a">GUID e6832ea9-2fb4-4d34-ac82-b304117e67e1</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Projects</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.3.2020::4:56:21</_modifiedTime>
+			<AggregatesList type="e">
+				<value>GUID f5105789-79f8-42bf-aa8c-1a71854825ff</value>
+			</AggregatesList>
+		</IWorkspace>
+		<IProject type="e">
+			<fileName type="a">AWCController</fileName>
+			<_persistAs type="a">C:\Rhapsody_RMM\AWCController</_persistAs>
+			<_id type="a">GUID f5105789-79f8-42bf-aa8c-1a71854825ff</_id>
+			<_rmmServerID type="a">1000347_vJAj49CcEeqJcZxSy53HtA</_rmmServerID>
+		</IProject>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

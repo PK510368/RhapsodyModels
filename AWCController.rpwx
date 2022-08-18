@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0.1</version>
+	<lang>*</lang>
+	<BuildNo>202006101734</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<CGEMdiWorkspace type="e">
+			<stubList type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</stubList>
+			<isLoadOnDemand type="a">0</isLoadOnDemand>
+			<myViewsWithID type="c">
+				<IRPYRawContainer type="e">
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">26</m_nLeft>
+								<m_nTop type="a">26</m_nTop>
+								<m_nRight type="a">1016</m_nRight>
+								<m_nBottom type="a">310</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\AWCController_rpy\Domain_Architecture.sbsx</_hfilename>
+								<_hsubsystem type="a">Domain_Architecture</_hsubsystem>
+								<_hname type="a">OverallArchitecture</_hname>
+								<_hid type="a">GUID f072d751-190b-4182-bff7-547ad96f9806</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 17 </_UpLeft>
+						<_DownRight type="a">953 241 </_DownRight>
+						<m_nDiagramIndex type="a">3</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">50</m_nLeft>
+								<m_nTop type="a">50</m_nTop>
+								<m_nRight type="a">787</m_nRight>
+								<m_nBottom type="a">264</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IStateChartDiagram</_hm2Class>
+								<_hfilename type="a">.\AWCController_rpy\ActiveWingControlController.sbsx</_hfilename>
+								<_hsubsystem type="a">Logical_Architecture::ActiveWingControlController</_hsubsystem>
+								<_hclass type="a">ActuatorControl</_hclass>
+								<_hname type="a">StatechartDiagram</_hname>
+								<_hid type="a">GUID 98df2a8a-17c6-4ff3-9613-c5ab1d32f3a9</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">714 157 </_DownRight>
+						<m_nDiagramIndex type="a">14</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">0</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">377</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">25</m_nLeft>
+								<m_nTop type="a">25</m_nTop>
+								<m_nRight type="a">792</m_nRight>
+								<m_nBottom type="a">249</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IPanelDiagram</_hm2Class>
+								<_hfilename type="a">.\AWCController_rpy\ActiveWingControlController.sbsx</_hfilename>
+								<_hsubsystem type="a">Logical_Architecture::ActiveWingControlController</_hsubsystem>
+								<_hname type="a">GUI</_hname>
+								<_hid type="a">GUID e76c1575-348e-4b1e-ad9e-03a26b715e8d</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1106 248 </_DownRight>
+						<m_nDiagramIndex type="a">1</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">50</m_nLeft>
+								<m_nTop type="a">50</m_nTop>
+								<m_nRight type="a">840</m_nRight>
+								<m_nBottom type="a">378</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\AWCController_rpy\ActiveWingControlController.sbsx</_hfilename>
+								<_hsubsystem type="a">Logical_Architecture::ActiveWingControlController</_hsubsystem>
+								<_hname type="a">Runtime</_hname>
+								<_hid type="a">GUID 748232aa-9691-4027-a824-9c833fdf9b62</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 17 </_UpLeft>
+						<_DownRight type="a">761 288 </_DownRight>
+						<m_nDiagramIndex type="a">5</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">2</m_nFlags>
+								<m_showCmd type="a">3</m_showCmd>
+								<m_ptMinPositionX type="a">320</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">468</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">100</m_nLeft>
+								<m_nTop type="a">100</m_nTop>
+								<m_nRight type="a">890</m_nRight>
+								<m_nBottom type="a">428</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\AWCController_rpy\ActiveWingControlController.sbsx</_hfilename>
+								<_hsubsystem type="a">Logical_Architecture::ActiveWingControlController</_hsubsystem>
+								<_hname type="a">StructureOverview</_hname>
+								<_hid type="a">GUID c68616fc-1d57-4c04-872b-5c2d32ed47bd</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1136 609 </_DownRight>
+						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
+						<m_bIsActiveView type="a">1</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">2</m_nFlags>
+								<m_showCmd type="a">2</m_showCmd>
+								<m_ptMinPositionX type="a">160</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">450</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">150</m_nLeft>
+								<m_nTop type="a">150</m_nTop>
+								<m_nRight type="a">940</m_nRight>
+								<m_nBottom type="a">478</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IStructureDiagram</_hm2Class>
+								<_hfilename type="a">.\AWCController_rpy\ActiveWingControlController.sbsx</_hfilename>
+								<_hsubsystem type="a">Logical_Architecture::ActiveWingControlController</_hsubsystem>
+								<_hname type="a">SubSystems</_hname>
+								<_hid type="a">GUID bfefc25e-b184-485c-ae92-11448ffbfc3f</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">8229 4414 </_DownRight>
+						<m_nDiagramIndex type="a">4</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">0</m_nLeft>
+								<m_nTop type="a">0</m_nTop>
+								<m_nRight type="a">790</m_nRight>
+								<m_nBottom type="a">328</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IUCDiagram</_hm2Class>
+								<_hfilename type="a">.\AWCController_rpy\ActiveWingControlController.sbsx</_hfilename>
+								<_hsubsystem type="a">Logical_Architecture::ActiveWingControlController</_hsubsystem>
+								<_hname type="a">SystemsUsecases</_hname>
+								<_hid type="a">GUID c99c5a61-9997-47f5-bb67-fd71b01e2109</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1004 357 </_DownRight>
+						<m_nDiagramIndex type="a">2</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">50</m_nLeft>
+								<m_nTop type="a">50</m_nTop>
+								<m_nRight type="a">788</m_nRight>
+								<m_nBottom type="a">339</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IStructureDiagram</_hm2Class>
+								<_hfilename type="a">.\AWCController_rpy\ActiveWingControlController.sbsx</_hfilename>
+								<_hsubsystem type="a">Logical_Architecture::ActiveWingControlController</_hsubsystem>
+								<_hclass type="a">WingController.ControlWingActuatation</_hclass>
+								<_hname type="a">internal block diagram_30</_hname>
+								<_hid type="a">GUID 8a515f09-9ad9-4996-9a6f-8451a8aa2d9f</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">18 0 </_UpLeft>
+						<_DownRight type="a">725 231 </_DownRight>
+						<m_nDiagramIndex type="a">13</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">25</m_nLeft>
+								<m_nTop type="a">25</m_nTop>
+								<m_nRight type="a">828</m_nRight>
+								<m_nBottom type="a">360</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IStructureDiagram</_hm2Class>
+								<_hfilename type="a">.\AWCController_rpy\ActiveWingControlController.sbsx</_hfilename>
+								<_hsubsystem type="a">Logical_Architecture::ActiveWingControlController</_hsubsystem>
+								<_hclass type="a">WingController.IgnitionOnOff</_hclass>
+								<_hname type="a">internal block diagram_16</_hname>
+								<_hid type="a">GUID 5cf74101-a198-4916-85e9-2e91e0ac3e7e</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">-1 0 </_UpLeft>
+						<_DownRight type="a">773 278 </_DownRight>
+						<m_nDiagramIndex type="a">7</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">50</m_nLeft>
+								<m_nTop type="a">50</m_nTop>
+								<m_nRight type="a">928</m_nRight>
+								<m_nBottom type="a">255</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IStateChartDiagram</_hm2Class>
+								<_hfilename type="a">.\AWCController_rpy\ActiveWingControlController.sbsx</_hfilename>
+								<_hsubsystem type="a">Logical_Architecture::ActiveWingControlController</_hsubsystem>
+								<_hclass type="a">WingController</_hclass>
+								<_hname type="a">StatechartDiagram</_hname>
+								<_hid type="a">GUID 27842ee4-fc3e-498b-8168-8d0349b663de</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1136 196 </_DownRight>
+						<m_nDiagramIndex type="a">8</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">0</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">337</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">25</m_nLeft>
+								<m_nTop type="a">25</m_nTop>
+								<m_nRight type="a">703</m_nRight>
+								<m_nBottom type="a">308</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IStateChartDiagram</_hm2Class>
+								<_hfilename type="a">.\AWCController_rpy\ActiveWingControlController.sbsx</_hfilename>
+								<_hsubsystem type="a">Logical_Architecture::ActiveWingControlController</_hsubsystem>
+								<_hclass type="a">WingController</_hclass>
+								<_hname type="a">StatechartDiagram</_hname>
+								<_hid type="a">GUID 27842ee4-fc3e-498b-8168-8d0349b663de</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">183 39 </_UpLeft>
+						<_DownRight type="a">1037 336 </_DownRight>
+						<_instanceName type="a">itsWingController</_instanceName>
+						<m_nDiagramIndex type="a">6</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">25</m_nLeft>
+								<m_nTop type="a">25</m_nTop>
+								<m_nRight type="a">853</m_nRight>
+								<m_nBottom type="a">304</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\AWCController_rpy\Physical_Architecture.sbsx</_hfilename>
+								<_hsubsystem type="a">Physical_Architecture</_hsubsystem>
+								<_hname type="a">DataflowSystemArchitecture</_hname>
+								<_hid type="a">GUID 5d717865-7b7d-4299-83b4-f1d866c8798f</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 15 </_UpLeft>
+						<_DownRight type="a">1069 311 </_DownRight>
+						<m_nDiagramIndex type="a">10</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">75</m_nLeft>
+								<m_nTop type="a">75</m_nTop>
+								<m_nRight type="a">743</m_nRight>
+								<m_nBottom type="a">400</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\AWCController_rpy\Physical_Architecture.sbsx</_hfilename>
+								<_hsubsystem type="a">Physical_Architecture</_hsubsystem>
+								<_hname type="a">Function Allocation Diagram</_hname>
+								<_hid type="a">GUID a3de7785-6a0e-458f-a352-6dc1b1f90ef0</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">76 0 </_UpLeft>
+						<_DownRight type="a">928 358 </_DownRight>
+						<m_nDiagramIndex type="a">9</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">100</m_nLeft>
+								<m_nTop type="a">100</m_nTop>
+								<m_nRight type="a">805</m_nRight>
+								<m_nBottom type="a">438</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\AWCController_rpy\Physical_Architecture.sbsx</_hfilename>
+								<_hsubsystem type="a">Physical_Architecture</_hsubsystem>
+								<_hname type="a">NetworkArchitecture</_hname>
+								<_hid type="a">GUID 02cb2939-6f2e-4481-9714-601100f7b86e</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">903 376 </_DownRight>
+						<m_nDiagramIndex type="a">12</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">2</m_nFlags>
+								<m_showCmd type="a">2</m_showCmd>
+								<m_ptMinPositionX type="a">0</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">450</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">0</m_nLeft>
+								<m_nTop type="a">0</m_nTop>
+								<m_nRight type="a">777</m_nRight>
+								<m_nBottom type="a">344</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\AWCController_rpy\Physical_Architecture.sbsx</_hfilename>
+								<_hsubsystem type="a">Physical_Architecture</_hsubsystem>
+								<_hname type="a">SystemArchitecture</_hname>
+								<_hid type="a">GUID 9bdafab0-8027-41ae-9092-233c1b2c4744</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">8229 4414 </_DownRight>
+						<m_nDiagramIndex type="a">11</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+				</IRPYRawContainer>
+			</myViewsWithID>
+			<_fullName type="a">C:\EWM_CLIENT\AWCController\AWCController</_fullName>
+			<m_SearchScopeList type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</m_SearchScopeList>
+			<bUsingBrowserCustomView type="a">0</bUsingBrowserCustomView>
+			<bApplyOnDiagrams type="a">0</bApplyOnDiagrams>
+			<liCustomViewIDs type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</liCustomViewIDs>
+			<mapOslcRmCollections type="c">
+				<IRPYRawContainer type="e">
+					<value>$$$KEYhttps://ibmelmlab.plm.com:9443/ccm/process/project-areas/_oX14AgbUEeuO_fpMgrkOTw;Linked$$$VALUE</value>
+					
+					<value>$$$KEYhttps://ibmelmlab.plm.com:9443/qm/process/project-areas/_p1HuUgbUEeuOft2w3zX6qQ;Linked$$$VALUE</value>
+					
+					<value>$$$KEYhttps://ibmelmlab.plm.com:9443/rm/process/project-areas/_oHJwoAbUEeuB4Z6VUVQW8Q;Linked$$$VALUEhttps://ibmelmlab.plm.com:9443/rm/resources/MD_lYwMZAxcEeuB4Z6VUVQW8Q#All</value>
+					
+				</IRPYRawContainer>
+			</mapOslcRmCollections>
+			<favoritesItem type="e">
+				<generation type="a">0</generation>
+				<name type="a">Favorites</name>
+				<idOrFolder type="a">folder</idOrFolder>
+			</favoritesItem>
+			
+		</CGEMdiWorkspace>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+
