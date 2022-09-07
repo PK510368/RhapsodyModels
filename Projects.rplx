@@ -6,8 +6,7 @@
 	<lang>C++</lang>
 	<BuildNo>202006101734</BuildNo>
 	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
-	
-	<---demo on github webhook--->
+
 	<RHAPSODY-MODEL>
 	<IWorkspace type="e">
 			<m_SavedActiveProjectsName type="a">AWCController</m_SavedActiveProjectsName>
